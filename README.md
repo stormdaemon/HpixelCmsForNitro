@@ -17,9 +17,9 @@ Interface d'administration conviviale: Une interface d'administration facile à 
 # Prérequis
 Le CMS Habbo Pixel sous Laravel nécessite les éléments suivants pour fonctionner:
 
-PHP 8
-MySQL
-Composer
+# PHP 8
+# MySQL
+# Composer
 
 # Crédits
 Le CMS Habbo Pixel sous Laravel a été développé par 7evengivien à l'époque du site CloudCms et reconstruit par StormDaemon. Il est publié sous la licence MIT.
