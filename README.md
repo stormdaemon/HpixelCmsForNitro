@@ -22,4 +22,4 @@ Le CMS Habbo Pixel sous Laravel nécessite les éléments suivants pour fonction
 # Composer
 
 # Crédits
-Le CMS Habbo Pixel sous Laravel a été développé par 7evengivien à l'époque du site CloudCms et reconstruit par StormDaemon. Il est publié sous la licence MIT.
+Le CMS Habbo Pixel sous PHP a été développé par 7evengivien à l'époque du site CloudCms et reconstruit par StormDaemon sous Laravel. Il est publié sous la licence MIT.
